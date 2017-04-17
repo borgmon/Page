@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Hi, my name is Borgmon'
 description: null
 image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I am Borgmon. A indie game dev. I make VR game as well as mobile games. Unity is what I good at, but I'm a quick learner, and accept any challenge. I love make music. I make synth for my games. Maybe I will open a soundcloud someday. As for web, I know how to develop front end application (angular.js). You can know more through my work. Open for any collaboration. 
